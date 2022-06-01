@@ -14,7 +14,7 @@ A Colorado Board of Election employee has given the following tasks to complete 
 - Software: Python 3.6.1 Visual Studio Code, 1.38.1
 
 ## Summary 
-The analysis of the elction show that:
+The analysis of the election show that:
  - There were 369,711 votes cast in the election.
  - The candidates were:
   - Charles Casper Stockham: 23.0% (85,213)
@@ -29,7 +29,7 @@ The analysis of the elction show that:
 
 ## Challenge Overview
 # Overview of Election Audit
-After completing an audit, requested by the Colorado Board of Election to determine the winner, additional information was requested by the commision.
+After completing an audit, requested by the Colorado Board of Election to determine the winner, additional information was requested by the commission.
 The additional information requested for the audits is listed as follow:
 - Voter turnout for each county
 - Percentage of votes from each county out of the total count
@@ -43,7 +43,7 @@ The additional information requested for the audits is listed as follow:
   Denver: 82.8% (306,055)
   Arapahoe: 6.7% (24,801)
   
-- Denver county had the largest numnber of vote at 306,055 
+- Denver county had the largest number of vote at 306,055 
 
 -The candidate results were:
   - Charles Casper Stockham: 23.0% of the vote and 85,213 number of votes.
@@ -58,5 +58,5 @@ Included is a screenshot detailing the results using Python and Visual Studio
 
 
 ## Challenge Summary
-This same script could be modified and used again for other elections and produce data other than the winners and county tournout. If we were provided with data such as voter's age, sex, race or precinct by zip code we could extrapolate many data points to help us better understand the election results. Such examples could include a breakdown of candidate votes per county or also how popular each candidate was based on any of the voter demographic categories.  
+This same script could be modified and used again for other elections and produce data other than the winners and county turnout. If we were provided with data such as voter's age, sex, race or precinct by zip code we could extrapolate many data points to help us better understand the election results. Such examples could include a breakdown of candidate votes per county or also how popular each candidate was based on any of the voter demographic categories.  
 
